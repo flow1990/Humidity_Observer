@@ -4,13 +4,13 @@
     <img src="https://github.com/flow1990/Humidity_Observer/blob/main/pictures/front_view_voron_design.png" alt="front_view_voron_design" width="200" align="left">
     <img src="https://github.com/flow1990/Humidity_Observer/blob/main/pictures/side_view.png" alt="side" width="200" align="right">
   </p>
-  <p>
+  <div>
     This project is still in progress!
 
     A clean version without Voron logos will be uploaded soon.
 
     I printed all parts except the seal in ABS (esun ABS+ following the Voron print guidelines) and the seal in <B>TPU</B> (Bavaria Filaments TPU98, 0.1mm        layer height, 0% concentric infill and 1 top/bottom layer).
-  </p>
+  </div>
   <p>
       <h2>Bill of materials:</h2>
   <dl>
