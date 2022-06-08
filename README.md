@@ -1,7 +1,7 @@
 # Humidity_Observer
 Case to place a humidity sensor in storage box and keep the box sealed from air and humidity.
 <hr>
-<img src="https://github.com/flow1990/Humidity_Observer/blob/main/pictures/front_view_voron_design.png" alt="front_view_voron_design" height="300">
+<img src="https://github.com/flow1990/Humidity_Observer/blob/main/pictures/front_view_voron_design.png" alt="front_view_voron_design" width="300">
 <img src="https://github.com/flow1990/Humidity_Observer/blob/main/pictures/side_view.png" alt="side" width="300">
 <hr>
 This project is still in progress!
