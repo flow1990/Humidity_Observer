@@ -1,9 +1,8 @@
 <body>
   <h1># Humidity_Observer</h1>
-<p>Case to place a humidity sensor in storage box and keep the box sealed from air and humidity.
+<div>Case to place a humidity sensor in storage box and keep the box sealed from air and humidity.</div>
     <img src="https://github.com/flow1990/Humidity_Observer/blob/main/pictures/front_view_voron_design.png" alt="front_view_voron_design" width="300" align="left">
     <img src="https://github.com/flow1990/Humidity_Observer/blob/main/pictures/side_view.png" alt="side" width="300" align="right">
-  </p>
   <div align="middle">
     This project is still in progress!
 
