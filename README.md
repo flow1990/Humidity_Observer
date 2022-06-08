@@ -2,7 +2,7 @@
   <h1># Humidity_Observer</h1>
 <div align="middle">Case to place a humidity sensor in storage box and keep the box sealed from air and humidity.
     <br><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/screenshot_front_view_voron_design.png" alt="front_view_voron_design" width="500">
-    <img src="https://github.com/flow1990/Humidity_Observer/blob/main/pictures/screenshot_side_view.png" alt="side" width="500">
+    <img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/screenshot_side_view.png" alt="side" width="500">
     <br>This project is still in progress!
   A clean version without Voron logos will be uploaded soon.
   I printed all parts except the seal in ABS (esun ABS+ following the Voron print guidelines) and the seal in <B>TPU</B> (Bavaria Filaments TPU98, 0.1mm layer height, 0% concentric infill and 1 top/bottom layer).
