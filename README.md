@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <body>
   <h1># Humidity_Observer</h1>
 <div align="middle">Case to place a humidity sensor in storage box and keep the box sealed from air and humidity.
@@ -18,7 +17,3 @@
   </dl>
   </p>
 </body>
-
-=======
-
->>>>>>> 6646dc358e5fbaebb617e4a48904f22845a73d9c
