@@ -10,6 +10,7 @@
   <p>
       <h2>Bill of materials:</h2>
   <dl>
+    <dt>Bill of materials</dt>
     <dd>The storage box of your choice (I use the 22l IKEA Samla box which perfectly stores 4 rolls of filament)
     <dd>2 x Threaded Insert M3 x D5.0 x L4.0 (aliexpress: https://a.aliexpress.com/_mNUmqR0)</dd>
     <dd>1 x 2In1 Thermometer Hygrometer Mini LCD (aliexpress: https://a.aliexpress.com/_ms3GsKA)</dd>
