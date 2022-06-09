@@ -3,7 +3,7 @@
 <div>This project is still in progress!
   <hr>Case to place a humidity sensor in storage box and keep the box sealed from air and humidity.
   <img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/screenshot_front_view_All_designs.png" alt="all_three_designs" width="1000">
-  I printed all parts except the seal in ABS (esun ABS+ following the Voron print guidelines) and the seal in <B>TPU</B> (Bavaria Filaments TPU98, 0% concentric infill and 1 top/bottom layer).
+  <br>I printed all parts except the seal in ABS (esun ABS+ following the Voron print guidelines) and the seal in <B>TPU</B> (Bavaria Filaments TPU98, 0% concentric infill and 1 top/bottom layer).
   </div>
 
   <p>
