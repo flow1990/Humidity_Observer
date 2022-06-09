@@ -7,7 +7,9 @@
     <br>
   I printed all parts except the seal in ABS (esun ABS+ following the Voron print guidelines) and the seal in <B>TPU</B> (Bavaria Filaments TPU98, 0% concentric infill and 1 top/bottom layer).
   </div>
+
   <p>
+      <hr>
   <dl>
     <dt>Bill of materials</dt>
     <dd>1 x The storage box of your choice (I use the 22l IKEA Samla box which perfectly stores 4 rolls of filament)
