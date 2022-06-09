@@ -17,7 +17,7 @@
     <dd>The storage box of your choice (I use the 22l IKEA Samla box which perfectly stores 4 rolls of filament)
     <dd>2 x Threaded Insert M3 x D5.0 x L4.0 (aliexpress: https://a.aliexpress.com/_mNUmqR0)</dd>
     <dd>1 x 2In1 Thermometer Hygrometer Mini LCD (aliexpress: https://a.aliexpress.com/_ms3GsKA)</dd>
-    <dd>4 x SHCS M3 x 6mm (depends on thickness of your box walls)</dd>
+    <dd>4 x SHCS M3 x 8mm (depends on thickness of your box walls)</dd>
   </dl>
   </p>
 </body>
