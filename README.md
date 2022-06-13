@@ -7,7 +7,7 @@
   </div>
 <div>
   <hr>
-  The Hygrometer has to be pressed hard in the case, that's why I recommend not printing in PLA, the case could break while doing this. You have to drill or cut a 45mm hole plus 4 holes for the m3 screws (I will upload a stencil for this soon) in the box to fit the whole thing.
+  The Hygrometer has to be pressed hard in the case, that's why I recommend not printing in PLA, the case could break while doing this. You have to drill or cut a 45mm hole in your box to fit the whole thing.
   <p>
       <hr>
   <dl>
