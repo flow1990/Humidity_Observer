@@ -3,7 +3,7 @@
 <div>This project is still in progress!
   <hr>I wanted to have the Voron-Style on my drybox so this idea came up. Case to place a humidity sensor in a storage box and keep the box sealed from air and humidity.
   <img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/screenshot_front_view_all_designs.png" alt="all_three_designs" width="1000">
-  <br>All parts except the seal are printed in <B>ABS</B> (esun ABS+ following the Voron print guidelines - 40% infill) and the seal in <B>TPU</B> (Bavaria Filaments TPU98) the shrinkage of ABS is been observed.
+  <br>All parts except the seal are printed in <B>ABS</B> (esun ABS+ following the Voron print guidelines - 40% infill) and the seal in <B>TPU</B> (Bavaria Filaments TPU98) the shrinkage of ABS is been observed. I recommend using support for the (a)_outter_thermo_case and print it as it is oriented in the .stl file.
   </div>
 <div>
   <hr>
