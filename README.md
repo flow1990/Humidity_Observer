@@ -23,6 +23,7 @@
     <dd>2-4 x M3 x 6mm BHCS</dd>
     <dd>A piece of wood</dd>
     <dd>Duct tape</dd>
+    <dd>Chalk</dd>
   </dl>
   </p>
 </body>
