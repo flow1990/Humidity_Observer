@@ -8,8 +8,15 @@
 <div>
   <hr>
   The Hygrometer has to be pressed hard in the case, that's why I recommend not printing in PLA, the case could break while doing this. You have to drill or cut a 45mm circle plus four 3mm holes in your box to fit the whole thing (you can use the drill_stencil.stl for this).
-  <p>
+  </div>
+  <hr>
+  <h2>Installation Guide</h2>
+  <div align="middle">
+    Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.
+    <img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_one.jpg" alt="step_one" width="300">
+  </div>
       <hr>
+  <div>
   <dl>
     <dt>Bill of materials</dt>
     <dd>Filament of your choice (I recommend ABS 'cause PLA could break while pressing the hygrometer in)</dd>
@@ -25,5 +32,5 @@
     <dd>Duct tape</dd>
     <dd>Chalk</dd>
   </dl>
-  </p>
+  </div>
 </body>
