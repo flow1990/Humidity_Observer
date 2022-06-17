@@ -11,8 +11,12 @@
   </div>
   <hr>
   <h2>Installation Guide</h2>
-  <p>
+  <div align="middle">
+    Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.
+    <img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_one.jpg" alt="step_one" width="300">
+  </div>
       <hr>
+  <div>
   <dl>
     <dt>Bill of materials</dt>
     <dd>Filament of your choice (I recommend ABS 'cause PLA could break while pressing the hygrometer in)</dd>
@@ -28,5 +32,5 @@
     <dd>Duct tape</dd>
     <dd>Chalk</dd>
   </dl>
-  </p>
+  </div>
 </body>
