@@ -18,7 +18,7 @@
     <dd>4 x Heat Insert M3 x D5.0 x L4.0 (aliexpress: https://a.aliexpress.com/_mNUmqR0)</dd>
     <dd>1 x 2In1 Thermometer Hygrometer Mini LCD (aliexpress: https://a.aliexpress.com/_ms3GsKA)</dd>
     <dd>4 x M3 x 8mm SHCS (depends on thickness of your box walls)</dd>
-    <hr>
+    <br>
     <dt>Optional (makes mounting easier)</dt>
     <dd>2-4 x M3 x 6mm BHCS</dd>
     <dd>piece of wood</dd>
