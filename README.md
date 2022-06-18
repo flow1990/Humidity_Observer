@@ -13,7 +13,7 @@
   <h2>Installation Guide</h2>
   <div align="middle">
     <figure>
-    <img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_one.png" alt="step_one" width="300">
+    <img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_oneb.png" alt="step_one" width="300">
       <figcaption>Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</figcaption>
     </figure>
   </div>
