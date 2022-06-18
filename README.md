@@ -12,23 +12,26 @@
   <hr>
   <h2>Installation Guide</h2>
   <dl>
-    <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_onea.png" alt="step_one" width="500"></dt>
+    <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_onea.png" alt="step_one" width="500">Step One</dt>
     <dd align="left" width="250">Insert the four heat inserts in the <I>(a)_outter_thermo_case.stl</I>.</dd>
+    <dd align="left" width="250">Press the Hygrometer in the case.</dd>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_oneb.png" alt="step_one" width="500"></dt>
-    <dd align="right" width="250"><dd>Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
-    <dd>Then drill <B>only(!)</B> the hole 45mm hole in the center of the stencil.</dd></dd>
+    <dd align="right" width="250">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
+    <dd align="right" width="250">Drill <B>only(!)</B> the hole 45mm hole in the center of the stencil.</dd>
     <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_two.png" alt="step_one" width="500"></dt>
-    <dd align="left" width="500">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
+    <dd align="left" width="250">With the (optional) M3 x 6mm BHCS screw the stenciland the casetogether.</dd>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_three.png" alt="step_one" width="500"></dt>
-    <dd align="right" width="500">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
+    <dd align="right" width="250">Place the hole thing in the hole and turn it till the LCD is oriented right.</dd>
+    <dd align="right" width="250">With the chalk, make a line like shown in the picture.</dd>
     <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_four.png" alt="step_one" width="500"></dt>
-    <dd align="left" width="500">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
+    <dd align="left" width="250">Unscrew the stencil from the case again.</dd>
+    <dd align="left" width="250">Align the stencil with the hole from step</dd>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_five.png" alt="step_one" width="500"></dt>
-    <dd align="right" width="500">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
+    <dd align="right" width="250">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
     <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_six.png" alt="step_one" width="500"></dt>
-    <dd align="left" width="500">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
+    <dd align="left" width="250">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/done.png" alt="step_one" width="500"></dt>
-    <dd align="right" width="500">Done!</dd>
+    <dd align="right" width="250">Done!</dd>
   </dl>
       <hr>
   <div>
