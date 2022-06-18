@@ -22,7 +22,7 @@
     <dd align="right" width="250">Drill <B>only(!)</B> the hole 45mm hole in the center of the stencil.</dd>
     <dt align="left">Step three</dt>
     <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_two.png" alt="step_one" width="500"></dt>
-    <dd align="left" width="250">With the (optional) M3 x 6mm BHCS screw the stencil and the case together.</dd>
+    <dd align="left" width="250">With the M3 x 6mm BHCS screw the stencil and the case together.</dd>
     <dt align="right">Step four</dt>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_three.png" alt="step_one" width="500"></dt>
     <dd align="right" width="250">Place the hole thing in the hole and turn it till the LCD is oriented right.</dd>
@@ -55,7 +55,7 @@
     <dd>1 x 2In1 Thermometer Hygrometer Mini LCD (aliexpress: https://a.aliexpress.com/_ms3GsKA)</dd>
     <dd>4 x M3 x 8mm SHCS (depends on thickness of your box walls)</dd>
     <br>
-    <dt>Optional (makes mounting easier)</dt>
+    <dt>Needed for installation</dt>
     <dd>2-4 x M3 x 6mm BHCS</dd>
     <dd>A piece of wood</dd>
     <dd>Duct tape</dd>
