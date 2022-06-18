@@ -15,7 +15,8 @@
     <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_onea.png" alt="step_one" width="500"></dt>
     <dd align="left" width="250">Insert the four heat inserts in the <I>(a)_outter_thermo_case.stl</I>.</dd>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_oneb.png" alt="step_one" width="500"></dt>
-    <dd align="right" width="250">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape. Then drill <B>only(!)</B> the hole 45mm hole in the center of the stencil.</dd>
+    <dd align="right" width="250"><dd>Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
+    <dd>Then drill <B>only(!)</B> the hole 45mm hole in the center of the stencil.</dd></dd>
     <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_two.png" alt="step_one" width="500"></dt>
     <dd align="left" width="500">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_three.png" alt="step_one" width="500"></dt>
