@@ -22,7 +22,7 @@
     <dd align="right" width="250">Drill <B>only(!)</B> the hole 45mm hole in the center of the stencil.</dd>
     <dt align="left">Step three</dt>
     <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_two.png" alt="step_one" width="500"></dt>
-    <dd align="left" width="250">With the (optional) M3 x 6mm BHCS screw the stenciland the casetogether.</dd>
+    <dd align="left" width="250">With the (optional) M3 x 6mm BHCS screw the stencil and the case together.</dd>
     <dt align="right">Step four</dt>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_three.png" alt="step_one" width="500"></dt>
     <dd align="right" width="250">Place the hole thing in the hole and turn it till the LCD is oriented right.</dd>
@@ -34,7 +34,8 @@
     <dt align="right">Step six</dt>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_five.png" alt="step_one" width="500"></dt>
     <dd align="right" width="250">Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
-    <dd align="right" width="250">Drill the holes with a 4mm drill.</dd>    
+    <dd align="right" width="250">Drill the holes with a 4mm drill.</dd>
+    <dd align="left" width="250">Remove the stencil, you won't need it anymore.</dd>
     <dt align="left">Step seven</dt>
     <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_six.png" alt="step_one" width="500"></dt>
     <dd align="left" width="250">Place the <I>inner_thermo_case.stl</I> inside the box and put the M3 x 8 SHCS in the holes (head inside the box).</dd>
