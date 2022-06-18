@@ -11,9 +11,9 @@
   </div>
   <hr>
   <h2>Installation Guide</h2>
-  <dl align="left">
-    <dt><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_onea.png" alt="step_one" width="300"></dt>
-    <dd>Insert the four heat inserts in the <I>(a)_outter_thermo_case.stl</I>.</dd>
+  <dl>
+    <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_onea.png" alt="step_one" width="300"></dt>
+    <dd align="right">Insert the four heat inserts in the <I>(a)_outter_thermo_case.stl</I>.</dd>
     <dt><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_oneb.png" alt="step_one" width="300"></dt>
     <dd>Place the <I>drill_stencil.stl</I> on the box and secure it with the tape.</dd>
     <dt><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_two.png" alt="step_one" width="300"></dt>
