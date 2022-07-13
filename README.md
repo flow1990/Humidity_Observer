@@ -34,12 +34,12 @@
     <dt align="right">Step six</dt>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_five.png" alt="step_one" width="500"></dt>
     <dd align="right" width="250">Remove the stencil, you won't need it anymore.</dd>
-    <dd align="right" width="250">Place the <I>inner_thermo_case.stl</I> inside the box and put the M3 x 8 SHCS in the holes (head inside the box).</dd>
+    <dd align="right" width="250">Place the <I>inner_thermo_case.stl</I> inside the box and insert the M3 x 8 SHCS (head of the screws inside the box).   </dd>
     <dt align="left">Step seven</dt>
     <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_six.png" alt="step_one" width="500"></dt>
     <dd align="left" width="250"></dd>
     <dd align="left" width="250">Place the <I>tpu_seal.stl</I> on the screws (outside of the box).</dd>
-    <dd align="left" width="250">Now you can place the case in the holw and screw everxthing together.</dd>
+    <dd align="left" width="250">Now you can place the case in the holw and screw everything together.</dd>
     <dt align="right" width="250">Done!</dt>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/done.png" alt="step_one" width="500"></dt>
   </dl>
