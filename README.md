@@ -33,7 +33,7 @@
     <dd align="left" width="250">Drill the holes with a 4mm drill.</dd>
     <dt align="right">Step six</dt>
     <dt align="right"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_five.png" alt="step_one" width="500"></dt>
-    <dd align="left" width="250">Remove the stencil, you won't need it anymore.</dd>
+    <dd align="right" width="250">Remove the stencil, you won't need it anymore.</dd>
     <dd align="right" width="250">Place the <I>inner_thermo_case.stl</I> inside the box and put the M3 x 8 SHCS in the holes (head inside the box).</dd>
     <dt align="left">Step seven</dt>
     <dt align="left"><img src="https://github.com/flow1990/Humidity_Observer/blob/main/Pictures/step_six.png" alt="step_one" width="500"></dt>
